@@ -377,6 +377,7 @@
 *(включены в архив)*
 - **.NET Framework**
 - **Internet Explorer 9**
+- **DirectX**
 
 ---
 
