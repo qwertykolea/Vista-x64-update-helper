@@ -25,7 +25,7 @@
 
 Скачать архивы обновлений:
 - [part1](https://github.com/qwertykolea/Vista-x64-update-helper/releases/download/vista/VistaUpdate.zip.001)
-- [part2]((https://github.com/qwertykolea/Vista-x64-update-helper/releases/download/vista/VistaUpdate.zip.002)
+- [part2](https://github.com/qwertykolea/Vista-x64-update-helper/releases/download/vista/VistaUpdate.zip.002)
 
 ---
 
