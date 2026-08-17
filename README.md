@@ -1,8 +1,6 @@
 # 🧩 Vista x64 Update Helper
 
 ![Windows Vista](https://img.shields.io/badge/OS-Windows%20Vista%20x64-blue?logo=windows&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Stable-success)
-[![YouTube Tutorial](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](#)
 ![Language](https://img.shields.io/badge/Language-Russian-blue)
 
 **Правильная последовательность установки обновлений для Windows Vista x64**  
