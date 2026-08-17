@@ -2,7 +2,6 @@
 
 ![Windows Vista](https://img.shields.io/badge/OS-Windows%20Vista%20x64-blue?logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Stable-success)
-![License](https://img.shields.io/badge/License-Freeware-lightgrey)
 [![YouTube Tutorial](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](#)
 ![Language](https://img.shields.io/badge/Language-Russian-blue)
 
@@ -401,8 +400,3 @@
 - [vk.com/idid7601](https://vk.com/idid7601)
 - [vk.com/windows_vista_sp2](https://vk.com/windows_vista_sp2)
 - [youtube.com/@2008WindowsVista](http://www.youtube.com/@2008WindowsVista)
-
----
-
-📄 *Автор: укажи имя или ник*  
-📜 *Лицензия: Freeware / MIT — по выбору*
